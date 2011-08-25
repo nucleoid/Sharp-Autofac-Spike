@@ -1,0 +1,288 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Views/d:Home/f:Index.cshtml" caret="855" fromTop="18" />
+      <File id="9544D94B-9B6E-4B61-8A09-88382205BF86/d:NHibernateMaps/f:AutomappingConfiguration.cs" caret="0" fromTop="0" />
+      <File id="9544D94B-9B6E-4B61-8A09-88382205BF86/d:NHibernateMaps/f:AutoPersistenceModelGenerator.cs" caret="1054" fromTop="17" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:CastleWindsor/f:AutomappingConfiguration.cs" caret="0" fromTop="0" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:CastleWindsor/f:ComponentRegistrar.cs" caret="2683" fromTop="18" />
+      <File id="9544D94B-9B6E-4B61-8A09-88382205BF86/f:AutofacServiceLocator.cs" caret="241" fromTop="2" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Views/d:Products/f:Index.cshtml" caret="366" fromTop="14" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Views/d:Products/f:Update.cshtml" caret="359" fromTop="17" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Views/d:Products/f:Create.cshtml" caret="178" fromTop="11" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:BaseControllerTest.cs" caret="282" fromTop="11" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Controllers/f:ProductsController.cs" caret="905" fromTop="15" />
+      <File id="8DEF56CD-601E-443C-9DCE-C4EC54C0B6A6/f:Product.cs" caret="0" fromTop="0" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/f:NHibernate.config" caret="140" fromTop="3" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/f:Hibernate.cfg.xml" caret="825" fromTop="11" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/f:ServiceLocatorInitializer.cs" caret="623" fromTop="20" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/f:Global.asax.cs" caret="2910" fromTop="6" />
+      <File id="9544D94B-9B6E-4B61-8A09-88382205BF86/d:NHibernateMaps/d:Conventions/f:TableNameConvention.cs" caret="0" fromTop="0" />
+      <File id="9544D94B-9B6E-4B61-8A09-88382205BF86/d:NHibernateMaps/d:Conventions/f:PrimaryKeyConvention.cs" caret="484" fromTop="10" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="566" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/f:Hibernate.cfg.xml" caret="244" fromTop="4" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Controllers/f:ProductsController.cs" caret="627" fromTop="11" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:BaseControllerTest.cs" caret="282" fromTop="11" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:BaseControllerTest.cs" caret="22" fromTop="0" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:BaseControllerTest.cs" caret="99" fromTop="5" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="547" fromTop="10" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="1027" fromTop="16" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Controllers/f:ProductsController.cs" caret="1339" fromTop="18" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="852" fromTop="14" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="1351" fromTop="11" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="3909" fromTop="15" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="3644" fromTop="11" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="4995" fromTop="29" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="4487" fromTop="10" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="4844" fromTop="21" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="5742" fromTop="21" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="5913" fromTop="22" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="5318" fromTop="16" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="5148" fromTop="6" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:BaseControllerTest.cs" caret="282" fromTop="12" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:BaseControllerTest.cs" caret="282" fromTop="11" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="2266" fromTop="14" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="3186" fromTop="24" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="2084" fromTop="9" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="2602" fromTop="20" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="3304" fromTop="18" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="265" fromTop="7" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="0" fromTop="0" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="2715" fromTop="17" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/d:Controllers/f:ProductsControllerTest.cs" caret="560" fromTop="11" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="ErrorMessage" priority="31" />
+      <Item value="public" priority="383" />
+      <Item value="virtual" priority="31" />
+      <Item value="string" priority="63" />
+      <Item value="private" priority="95" />
+      <Item value="id" priority="31" />
+      <Item value="using" priority="123" />
+      <Item value="MvcContrib" priority="92" />
+      <Item value="Routing" priority="26" />
+      <Item value="ActionResults" priority="22" />
+      <Item value="FluentHtml" priority="26" />
+      <Item value="Html" priority="116" />
+      <Item value="RedirectResult" priority="28" />
+      <Item value="RedirectToRouteResult" priority="26" />
+      <Item value="this" priority="31" />
+      <Item value="x" priority="287" />
+      <Item value="foreach" priority="56" />
+      <Item value="Model" priority="181" />
+      <Item value="p" priority="155" />
+      <Item value="var" priority="223" />
+      <Item value="ProductsController`0" priority="95" />
+      <Item value="Product" priority="288" />
+      <Item value="new" priority="383" />
+      <Item value="ViewResult`0" priority="64" />
+      <Item value="Product`0" priority="97" />
+      <Item value="if" priority="31" />
+      <Item value="TryUpdateModel`1" priority="31" />
+      <Item value="product" priority="127" />
+      <Item value="ViewBag" priority="31" />
+      <Item value="return" priority="31" />
+      <Item value="View`0" priority="31" />
+      <Item value="_productRepository" priority="31" />
+      <Item value="override" priority="95" />
+      <Item value="Products" priority="32" />
+      <Item value="Assembly`0" priority="63" />
+      <Item value="builder" priority="255" />
+      <Item value="NHibernateQuery" priority="29" />
+      <Item value="EntityDuplicateChecker" priority="28" />
+      <Item value="IEntityDuplicateChecker`0" priority="31" />
+      <Item value="typeof" priority="63" />
+      <Item value="ISessionFactoryKeyProvider`0" priority="31" />
+      <Item value="ServiceLocator`0" priority="95" />
+      <Item value="key" priority="31" />
+      <Item value="serviceType" priority="31" />
+      <Item value="object" priority="31" />
+      <Item value="out" priority="31" />
+      <Item value="objector" priority="31" />
+      <Item value="AutofacServiceLocator" priority="28" />
+      <Item value="container" priority="31" />
+      <Item value="DefaultSessionFactoryKeyProvider`0" priority="31" />
+      <Item value="MbUnit" priority="30" />
+      <Item value="Framework" priority="53" />
+      <Item value="SetUpAttribute`0" priority="31" />
+      <Item value="void" priority="191" />
+      <Item value="ServiceLocatorInitializer`0" priority="31" />
+      <Item value="_repository" priority="224" />
+      <Item value="ProductsControllerTest`0" priority="31" />
+      <Item value="_controller" priority="320" />
+      <Item value="ProductsController" priority="28" />
+      <Item value="List&lt;Product&gt;" priority="28" />
+      <Item value="result" priority="127" />
+      <Item value="as" priority="127" />
+      <Item value="Assert`0" priority="63" />
+      <Item value="RedirectToRouteResult`0" priority="32" />
+      <Item value="Arg" priority="127" />
+      <Item value="ControllerContext" priority="57" />
+      <Item value="SharpArch" priority="63" />
+      <Item value="Testing" priority="53" />
+      <Item value="NHibernate" priority="26" />
+      <Item value="MockRepository`0" priority="95" />
+      <Item value="ControllerContext`0" priority="31" />
+      <Item value="context" priority="63" />
+      <Item value="EntityIdSetter`0" priority="26" />
+      <Item value="Name" priority="63" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="HasValue" priority="26" />
+      <Item value="Value" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IceCreamYouScreamCorp.Web.Mvc.Controllers.ProductsController">
+      <Item value="RedirectToAction`0" priority="26" />
+      <Item value="Index`0" priority="53" />
+      <Item value="Update`0" priority="133" />
+      <Item value="Create`0" priority="110" />
+      <Item value="Delete`0" priority="50" />
+      <Item value="ControllerContext" priority="54" />
+      <Item value="Expect`1" priority="53" />
+      <Item value="ValidateRequest" priority="26" />
+      <Item value="VerifyAllExpectations`0" priority="22" />
+      <Item value="ValueProvider" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="HtmlCodeCompletionContext">
+      <Item value="ul" priority="11" />
+      <Item value="id" priority="11" />
+      <Item value="footer" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="RazorTransitionCompletionContext">
+      <Item value="foreach" priority="15" />
+      <Item value="p" priority="15" />
+      <Item value="Html" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IceCreamYouScreamCorp.Domain.Product">
+      <Item value="Id" priority="235" />
+      <Item value="Name" priority="135" />
+      <Item value="SetIdTo`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="ActionLink`0" priority="49" />
+      <Item value="AntiForgeryToken`0" priority="26" />
+      <Item value="Hidden`0" priority="26" />
+      <Item value="Action`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="27" />
+      <Item value="Empty" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Conventions.Instances.IGeneratorInstance">
+      <Item value="Identity`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SharpArch.NHibernate.Contracts.Repositories.INHibernateRepository`1">
+      <Item value="DbContext" priority="27" />
+      <Item value="Delete`0" priority="83" />
+      <Item value="Expect`1" priority="81" />
+      <Item value="GetAll`0" priority="22" />
+      <Item value="VerifyAllExpectations`0" priority="53" />
+      <Item value="Get`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="GetExecutingAssembly`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Autofac.ContainerBuilder">
+      <Item value="RegisterModelBinders`0" priority="26" />
+      <Item value="RegisterModelBinderProvider`0" priority="26" />
+      <Item value="RegisterGeneric`0" priority="54" />
+      <Item value="RegisterAssemblyTypes`0" priority="45" />
+      <Item value="Register`1" priority="53" />
+      <Item value="RegisterType`1" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Autofac.Builder.IRegistrationBuilder`3">
+      <Item value="As`1" priority="130" />
+      <Item value="Where`3" priority="26" />
+      <Item value="Named`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Assembly" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Practices.ServiceLocation.ServiceLocator">
+      <Item value="SetLocatorProvider`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Autofac.IContainer">
+      <Item value="ResolveService`0" priority="22" />
+      <Item value="Resolve`0" priority="22" />
+      <Item value="ResolveKeyed`1" priority="22" />
+      <Item value="TryResolveKeyed`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@IceCreamYouScreamCorp.Tests.ServiceLocatorInitializer">
+      <Item value="Init`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.Interfaces.IMethodOptions`1">
+      <Item value="Repeat" priority="53" />
+      <Item value="Return`0" priority="99" />
+      <Item value="IgnoreArguments`0" priority="26" />
+      <Item value="CallOriginalMethod`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MbUnit.Framework.Assert">
+      <Item value="AreEqual`0" priority="104" />
+      <Item value="IsInstanceOfType`1" priority="22" />
+      <Item value="IsNull`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ViewResult">
+      <Item value="View" priority="49" />
+      <Item value="Model" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.IView">
+      <Item value="ToString`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Count" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="Empty" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.RedirectToRouteResult">
+      <Item value="RouteName" priority="22" />
+      <Item value="RouteValues" priority="50" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.Arg`1">
+      <Item value="Is" priority="53" />
+      <Item value="Matches`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.Constraints.IsArg`1">
+      <Item value="Anything" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.MockRepository">
+      <Item value="GenerateMock`1" priority="80" />
+      <Item value="GenerateStub`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ControllerContext">
+      <Item value="Expect`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.Interfaces.OriginalCallOptions">
+      <Item value="CreateExpectation" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SharpArch.Testing.EntityIdSetter">
+      <Item value="SetIdTo`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.FormCollection">
+      <Item value="ToValueProvider`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

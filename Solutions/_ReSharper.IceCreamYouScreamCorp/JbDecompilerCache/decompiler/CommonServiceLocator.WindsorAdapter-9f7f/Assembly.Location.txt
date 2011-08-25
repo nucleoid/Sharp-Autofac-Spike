@@ -1,0 +1,1 @@
+﻿C:\statebank\Spike\IceCreamYouScreamCorp\Packages\CommonServiceLocator.WindsorAdapter.1.0\lib\NET35\CommonServiceLocator.WindsorAdapter.dll

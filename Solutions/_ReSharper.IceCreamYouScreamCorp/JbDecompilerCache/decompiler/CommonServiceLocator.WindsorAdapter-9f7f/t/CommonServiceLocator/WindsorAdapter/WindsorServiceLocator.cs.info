@@ -1,0 +1,8 @@
+﻿Code version: 6.0.2202.688
+Assembly name CommonServiceLocator.WindsorAdapter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null mvid {4aa97f45-eae1-431f-9b58-680b0e88ec33}
+* ref Microsoft.Practices.ServiceLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  mvid {f7f2f2c3-6a78-4a41-bfcc-ce4b7dfd209c}
+* ref Castle.Windsor, Version=2.5.1.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc
+  mvid {89cfd255-d398-41b6-9bf8-5d4b0aa220e1}
+* ref mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {88fb3dc0-7df0-4e63-aeba-3dceff9fac78}

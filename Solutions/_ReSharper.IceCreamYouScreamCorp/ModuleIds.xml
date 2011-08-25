@@ -1,0 +1,13 @@
+<Modules>
+  <Module PersistentId="39613BA0-1206-4A4B-A16A-C1F2A22D1267" ModuleId="IceCreamYouScreamCorp.Web.Mvc" />
+  <Module PersistentId="8DEF56CD-601E-443C-9DCE-C4EC54C0B6A6" ModuleId="IceCreamYouScreamCorp.Domain" />
+  <Module PersistentId="9544D94B-9B6E-4B61-8A09-88382205BF86" ModuleId="IceCreamYouScreamCorp.Infrastructure" />
+  <Module PersistentId="CC4A233E-BE8A-47CC-A87C-8352BFD557B7" ModuleId="IceCreamYouScreamCorp.Tests" />
+  <Module PersistentId="System.Web.Mvc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.Web.Mvc" />
+  <Module PersistentId="SharpArch.Domain, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="SharpArch.Domain" />
+  <Module PersistentId="SharpArch.Web.Mvc, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="SharpArch.Web.Mvc" />
+  <Module PersistentId="SharpArch.NHibernate, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="SharpArch.NHibernate" />
+  <Module PersistentId="Microsoft.Practices.ServiceLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="Microsoft.Practices.ServiceLocation" />
+  <Module PersistentId="CommonServiceLocator.WindsorAdapter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="CommonServiceLocator.WindsorAdapter" />
+  <Module PersistentId="SharpArch.Domain, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="SharpArch.Domain_1" />
+</Modules>

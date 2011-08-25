@@ -1,0 +1,15 @@
+﻿@model IList<IceCreamYouScreamCorp.Domain.Product>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<ul id="products">
+@foreach (var p in Model)
+{
+    <li>@(Html.ActionLink<ProductsController>(x => x.Update(p.Id), string.Format("ID: {0}  Name: {1}", p.Id, p.Name))) @(Html.ActionLink<ProductsController>(x => x.Delete(p.Id), "delete"))</li>
+}
+</ul>

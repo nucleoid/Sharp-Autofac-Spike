@@ -1,0 +1,18 @@
+﻿Code version: 6.0.2202.688
+Assembly name SharpArch.Domain, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null mvid {a2e0b04b-e36e-4121-9ec3-0d0d0b1768a1}
+* ref mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {fcb9dac8-ae3a-4886-93b0-f4cd5b0db0be}
+* ref System.ComponentModel.DataAnnotations, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  mvid {648e3712-aacd-4dfa-84d6-70c740f7d24e}
+* ref System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {c08d55d3-6463-439d-b112-60f6502ec141}
+* ref Microsoft.Practices.ServiceLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  mvid {f7f2f2c3-6a78-4a41-bfcc-ce4b7dfd209c}
+* ref System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {0467f5c0-e463-4b2c-acc5-f718cb71f056}
+* ref Newtonsoft.Json, Version=3.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+  mvid {627f95c9-efdf-4341-aa5d-0209577e8a8f}
+* ref System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {988a97e5-8665-4494-a7b2-6de411f61284}
+* ref mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {88fb3dc0-7df0-4e63-aeba-3dceff9fac78}

@@ -1,0 +1,8 @@
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\IceCreamYouScreamCorp.Domain\bin\Debug\IceCreamYouScreamCorp.Domain.dll
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\IceCreamYouScreamCorp.Domain\bin\Debug\IceCreamYouScreamCorp.Domain.pdb
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\IceCreamYouScreamCorp.Domain\bin\Debug\SharpArch.Domain.dll
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\IceCreamYouScreamCorp.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\IceCreamYouScreamCorp.Domain\bin\Debug\SharpArch.Domain.pdb
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\IceCreamYouScreamCorp.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\IceCreamYouScreamCorp.Domain\obj\Debug\IceCreamYouScreamCorp.Domain.dll
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\IceCreamYouScreamCorp.Domain\obj\Debug\IceCreamYouScreamCorp.Domain.pdb

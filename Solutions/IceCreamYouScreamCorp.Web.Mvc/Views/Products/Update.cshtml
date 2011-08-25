@@ -1,0 +1,18 @@
+﻿@model IceCreamYouScreamCorp.Domain.Product
+
+@{
+    ViewBag.Title = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Update</h2>
+
+@using (Html.BeginForm("Update", "Products"))
+{
+    <text>
+    @Html.AntiForgeryToken()
+    @Html.Hidden("Id", Model.Id)<br />
+    Name: @Html.TextBox("Name", Model.Name)<br />
+    <input type="submit" value = "Update Product" />
+    </text>
+}

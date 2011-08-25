@@ -1,0 +1,1 @@
+﻿C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\IceCreamYouScreamCorp.Web.Mvc\Bin\SharpArch.Domain.dll

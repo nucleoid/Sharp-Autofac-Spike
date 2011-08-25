@@ -1,0 +1,16 @@
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\MSpecTests.IceCreamYouScreamCorp\bin\Debug\MSpecTests.IceCreamYouScreamCorp.dll
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\MSpecTests.IceCreamYouScreamCorp\bin\Debug\MSpecTests.IceCreamYouScreamCorp.pdb
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\MSpecTests.IceCreamYouScreamCorp\bin\Debug\IceCreamYouScreamCorp.Domain.dll
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\MSpecTests.IceCreamYouScreamCorp\bin\Debug\IceCreamYouScreamCorp.Tasks.dll
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\MSpecTests.IceCreamYouScreamCorp\bin\Debug\Machine.Specifications.AutoMocking.dll
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\MSpecTests.IceCreamYouScreamCorp\bin\Debug\Machine.Specifications.dll
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\MSpecTests.IceCreamYouScreamCorp\bin\Debug\Machine.Specifications.Mvc.dll
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\MSpecTests.IceCreamYouScreamCorp\bin\Debug\SharpArch.Domain.dll
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\MSpecTests.IceCreamYouScreamCorp\bin\Debug\Newtonsoft.Json.dll
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\MSpecTests.IceCreamYouScreamCorp\bin\Debug\IceCreamYouScreamCorp.Domain.pdb
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\MSpecTests.IceCreamYouScreamCorp\bin\Debug\IceCreamYouScreamCorp.Tasks.pdb
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\MSpecTests.IceCreamYouScreamCorp\bin\Debug\Machine.Specifications.Mvc.pdb
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\MSpecTests.IceCreamYouScreamCorp\bin\Debug\SharpArch.Domain.pdb
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\MSpecTests.IceCreamYouScreamCorp\obj\Debug\ResolveAssemblyReference.cache
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\MSpecTests.IceCreamYouScreamCorp\obj\Debug\MSpecTests.IceCreamYouScreamCorp.dll
+C:\statebank\Spike\IceCreamYouScreamCorp\Solutions\MSpecTests.IceCreamYouScreamCorp\obj\Debug\MSpecTests.IceCreamYouScreamCorp.pdb
